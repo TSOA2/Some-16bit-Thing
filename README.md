@@ -1,5 +1,7 @@
 # Some 16-bit thing
 
+[16bitthing](./imgs/16bitthing.png)
+
 ### What is it?
 
 It is some 16-bit x86 NASM-syntax code written by me to learn more about assembly whilst having fun. I was having so much fun I forgot about transitioning to 32-bit mode, but then realized I don't care because I can do that later :)
