@@ -1,6 +1,6 @@
 # Some 16-bit thing
 
-[16bitthing](./imgs/16bitthing.png)
+![16bitthing](./imgs/16bitthing.png)
 
 ### What is it?
 
